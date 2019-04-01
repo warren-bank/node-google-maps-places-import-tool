@@ -1,0 +1,128 @@
+https://www.google.com/maps/dir/Hanauma+Bay+Nature+Park,+Honolulu,+HI//@21.2732345,-157.7670454,12z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x7c00126e1caebc29:0xb545c0da291650ae!2m2!1d-157.696832!2d21.273249!1m0!3e2
+  Hanauma Bay Nature Preserve
+
+https://www.google.com/maps/dir/Lanai+Lookout,+Kalaniana%CA%BBole+Highway,+Honolulu,+HI/21.2527849,-157.7268182/@21.276462,-157.7558248,12z/data=!4m9!4m8!1m5!1m1!1s0x7c001213ec213a81:0xfbb3aa8175e138e1!2m2!1d-157.6856114!2d21.2764765!1m0!3e2
+  Lanai Lookout
+
+https://www.google.com/maps/dir/Kahauloa+Cove,+Hawaii//@27.3752799,-154.710136,4z/data=!4m9!4m8!1m5!1m1!1s0x7c001213bd39687b:0x3f9789deb856d41f!2m2!1d-157.6862774!2d21.2756335!1m0!3e2
+  Kahauloa Cove
+
+https://www.google.com/maps/dir/Lava+Tube,+Kalaniana%CA%BBole+Highway,+Honolulu,+HI/21.3203863,-157.7012824/@21.2772034,-157.755031,12z/data=!4m9!4m8!1m5!1m1!1s0x7c0012140618f16d:0xa80c06f809ce42af!2m2!1d-157.6848176!2d21.2772179!1m0!3e2
+  Lava Tube
+
+https://www.google.com/maps/dir/Japanese+Fishing+Shrine%EF%BC%88Umi+Mamori+Jizo%EF%BC%89,+Kalaniana%CA%BBole+Highway,+Honolulu,+HI//@21.2810574,-157.7480931,12z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x7c001218030b99e5:0xa00e075dc417000b!2m2!1d-157.6778797!2d21.2810719!1m0!3e2
+  Japanese Fishing Shrine
+
+https://www.google.com/maps/dir/Sandy+Beach+Park,+Honolulu,+HI//@21.2840001,-157.7459249,12z/data=!4m9!4m8!1m5!1m1!1s0x7c00122302013e15:0x58350448ebb832ee!2m2!1d-157.6757115!2d21.2840147!1m0!3e2
+  Sandy Beach Park
+
+https://www.google.com/maps/dir/Wawamalu+Beach+Park,+Kalaniana%CA%BBole+Highway,+Honolulu,+HI//@21.2872224,-157.7400424,12z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x7c001226c044ba33:0xec80ba7ae569fed!2m2!1d-157.669829!2d21.287237!1m0!3e2
+  Wawamalu Beach Park
+
+https://www.google.com/maps/dir/Sandy+beach+dunes,+Kalaniana%CA%BBole+Highway,+Honolulu,+HI//@21.2916946,-157.7315939,12z/data=!4m9!4m8!1m5!1m1!1s0x7c001181d334588f:0x2812a0425a1afd2!2m2!1d-157.6613805!2d21.2917092!1m0!3e2
+  Sandy Beach Dunes
+
+https://www.google.com/maps/dir/Kaiwi+State+Scenic+Shoreline,+8751-9057+Kalaniana%CA%BBole+Hwy,+Honolulu,+HI+96825//@21.3056644,-157.7256837,12z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x7c0011862ddc063f:0x5c4598e5ad53062c!2m2!1d-157.6554703!2d21.305679!1m0!3e2
+  Kaiwi State Scenic Shoreline
+
+https://www.google.com/maps/dir/Makapu%CA%BBu+Lookout,+Kalaniana%CA%BBole+Highway,+Waimanalo,+HI//@21.3093867,-157.7270422,12z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x7c00117a56befc3b:0xb05cbc8c4a131471!2m2!1d-157.6568288!2d21.3094013!1m0!3e2
+  Makapuu Lookout
+
+https://www.google.com/maps/dir/Makapu%E2%80%98u+Point+Lighthouse+Trail,+Waimanalo,+HI//@21.3087634,-157.7206587,12z/data=!4m9!4m8!1m5!1m1!1s0x7c001171083e38eb:0x2613352d6f660971!2m2!1d-157.6504453!2d21.308778!1m0!3e2
+  Makapuu Point and Lighthouse
+
+https://www.google.com/maps/dir/Makapuu+Beach+Park,+Waimanalo+Beach,+HI//@21.424573,-157.9428645,11z/data=!4m9!4m8!1m5!1m1!1s0x7c00117b634ebe1b:0x766c18df4268fba6!2m2!1d-157.6601154!2d21.311051!1m0!3e0
+  Makapuu Beach
+
+https://www.google.com/maps/dir/Sea+Life+Park+Hawaii,+Kalaniana%CA%BBole+Highway,+Waimanalo,+HI//@21.3131793,-157.7333511,12z/data=!4m9!4m8!1m5!1m1!1s0x7c00117cb5b874e1:0x5def94f09ab5dc01!2m2!1d-157.6631377!2d21.3131939!1m0!3e0
+  Sea Life Park
+
+https://www.google.com/maps/dir/Makapu'u+Tide+Pools,+Makapu%CA%BBu+Point+Lighthouse+Trail,+Waimanalo,+HI//@21.3157867,-157.7330864,12z/data=!4m9!4m8!1m5!1m1!1s0x7c001162e3510ce5:0x5c72b5b804b78bf6!2m2!1d-157.662873!2d21.3158013!1m0!3e0
+  Makapuu Tide Pools
+
+https://www.google.com/maps/dir/Kaup%C5%8D+Cove,+Waimanalo+Beach,+HI//@21.3199854,-157.7391002,12z/data=!4m9!4m8!1m5!1m1!1s0x7c0013df2b9c8db7:0x1b3240bba7e42332!2m2!1d-157.6688868!2d21.32!1m0!3e0
+  Kaupo Cove
+
+https://www.google.com/maps/dir/Kaup%C5%8D+Beach+Park,+Waimanalo,+HI//@21.3216643,-157.7437012,12z/data=!4m9!4m8!1m5!1m1!1s0x7c0013dc6d0735ff:0x47bdca10d74e95b!2m2!1d-157.6734878!2d21.3216789!1m0!3e0
+  Kaupo Beach Park
+
+https://www.google.com/maps/dir/Waimanalo+Beach,+HI//@21.3307746,-157.7572993,12z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x7c00139abcc803ad:0xa1d95d9f963aa8e4!2m2!1d-157.6870859!2d21.3307892!1m0!3e0
+  Waimanlo Beach
+
+https://www.google.com/maps/place/Aloha+Sunday/@21.3922524,-157.744889,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0014dcb3bfbb8d:0x700179f1b5c2bac4!8m2!3d21.3922524!4d-157.7426949
+  The Local Shave Ice & Aloha Sunday Supply Co.
+
+https://www.google.com/maps/place/Lanikai+Beach/@21.3930533,-157.7176291,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0014dd17442541:0x88415fbfd50f90b8!8m2!3d21.3930533!4d-157.715435
+  Lanikai Beach
+
+https://www.google.com/maps/place/Kailua+Beach+Park/@21.397396,-157.729412,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0014fcc76127dd:0x376e262edd16fce0!8m2!3d21.397396!4d-157.7272179
+  Kailua Beach Park
+
+https://www.google.com/maps/place/Iwo+Jima+Memorial/@21.4362371,-157.7595896,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00154c4b0f8d69:0x3a1b6cccae92a585!8m2!3d21.4362371!4d-157.7573955
+  Iwo Jima Memorial
+
+https://www.google.com/maps/place/Valley+of+the+Temples+Mortuary,+Funeral,+Cremation+%26+Memorial+Park/@21.434707,-157.8300847,17z/data=!3m1!4b1!4m5!3m4!1s0x7c006a476ef07947:0xfd2eea2d5dbfecbb!8m2!3d21.434702!4d-157.827896
+  Valley of the Temples
+
+https://www.google.com/maps/dir/Byodo-In+Temple,+Kaneohe,+HI//@21.4306791,-157.9024616,12z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x7c006a476fb89d59:0x1af42e22388f49e4!2m2!1d-157.8322482!2d21.4306937!1m0!3e0
+  Byodo-In Temple
+
+https://www.google.com/maps/place/Kalae%CA%BB%C5%8D%CA%BBio+Beach+Park/@21.5453907,-157.8483817,17z/data=!4m5!3m4!1s0x7c0041521f07d47b:0x800e34735c3449b7!8m2!3d21.5452011!4d-157.8460053
+  Kalaeoio Beach Park
+
+https://www.google.com/maps/place/Ka%E2%80%98a%E2%80%98Awa+Point/@21.5584945,-158.1349413,10z/data=!4m5!3m4!1s0x7c0046aa38080a19:0xfca75a30173558e7!8m2!3d21.5584752!4d-157.8547899
+  Kaaawa Point
+
+https://www.google.com/maps/place/Kahana+Bay+Beach+Park/@21.5561753,-157.8772432,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0043f58b3ab115:0xbaf96689cd2d20ca!8m2!3d21.5561753!4d-157.8750491
+  Kahana Bay Beach
+
+https://www.google.com/maps/place/Kaluapuleho+Point/@21.5634352,-157.8824783,16z/data=!4m5!3m4!1s0x7c00440dab8c609f:0xf684c4940356d5c3!8m2!3d21.5661111!4d-157.8775
+  Kaluapuleho Point
+
+https://www.google.com/maps/place/Punalu'u+Beach+Park/@21.576773,-157.883906,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0044418d736f65:0x366d3410a10b122b!8m2!3d21.576773!4d-157.8817119
+  Punalu'u Beach
+
+https://www.google.com/maps/place/Kalaipaloa+Point/@21.6019637,-157.9068104,15z/data=!3m1!4b1!4m5!3m4!1s0x7c00445385400373:0x23b4e82be1122268!8m2!3d21.6019444!4d-157.8980556
+  Kalaipaloa Point
+
+https://www.google.com/maps/place/Polynesian+Cultural+Center/@21.6405066,-157.9257382,16z/data=!3m1!4b1!4m5!3m4!1s0x7c007275be11938d:0xcbb5e94e7969058a!8m2!3d21.6389502!4d-157.9198582
+  Polynesian Cultural Center
+
+https://www.google.com/maps/place/L%C4%81%CA%BBie+Point+State+Wayside/@21.6484801,-157.916631,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00457c8ae267bd:0x99d860e28f909350!8m2!3d21.6484801!4d-157.9144369
+  Laie Point State Wayside
+
+https://www.google.com/maps/place/Hukilau+Beach+Park/@21.6528937,-157.930516,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00455fe1a9b0cb:0x8a091656af2dfdec!8m2!3d21.6528887!4d-157.9283273
+  Hukilau Beach Park
+
+https://www.google.com/maps/place/Turtle+Bay/@21.7019024,-158.0003495,17z/data=!4m5!3m4!1s0x7c005055b3c6bc47:0xc2ee55ebd1ff9a8b!8m2!3d21.7022589!4d-157.9999643
+  Turtle Bay
+
+https://www.google.com/maps/place/Kawela+Beach/@21.6934827,-158.0214667,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0050eb9786a50b:0x778a35974e025178!8m2!3d21.6934827!4d-158.0192726
+  Kawela Beach
+
+https://www.google.com/maps/place/Sunset+Beach/@21.6685556,-158.0515421,14z/data=!4m5!3m4!1s0x7c0059fb8b43726d:0x553d3b7bd56fc15d!8m2!3d21.6742715!4d-158.0402827
+  Sunset Beach Park
+
+https://www.google.com/maps/place/Banzai+Pipeline/@21.6650562,-158.0533934,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d21.6650562!4d-158.0512047
+  Banzai Pipeline
+
+https://www.google.com/maps/place/P%C5%ABp%C5%ABkea+Beach+Park/@21.6525201,-158.0641662,17z/data=!3m1!4b1!4m5!3m4!1s0x7c0059ed1a239de5:0x762ac3b2fd91b599!8m2!3d21.6525201!4d-158.0619721
+  Pupukea Beach Park
+
+https://www.google.com/maps/place/Sharks+Cove/@21.6547208,-158.0825526,14z/data=!3m1!4b1!4m5!3m4!1s0x7c0059ec7041099f:0xab769ee3e345dc6f!8m2!3d21.6547221!4d-158.065
+  Shark's Cove
+
+https://www.google.com/maps/place/Waimea+Valley/@21.6362699,-158.063575,15z/data=!4m8!1m2!2m1!1swaimea+valley+waterfall+oahu!3m4!1s0x0:0xd9f12c4c38a9ad2b!8m2!3d21.6361101!4d-158.0540156
+  Waimea Valley Waterfall
+
+https://www.google.com/maps/place/Waimea+Bay+Beach+Park/@21.639814,-158.065557,17z/data=!3m1!4b1!4m5!3m4!1s0x7c00599082b2115b:0x39f7c2ce689f8022!8m2!3d21.639814!4d-158.0633629
+  Waimea Bay Beach Park
+
+https://www.google.com/maps/place/Laniakea+Beach/@21.6159741,-158.094566,16z/data=!3m1!4b1!4m5!3m4!1s0x7c00591b3768cc4b:0x9cd5f1d61dbafc84!8m2!3d21.6172053!4d-158.0873414
+  Laniakea Beach
+
+https://www.google.com/maps/place/Haleiwa,+HI+96712/@21.5915495,-158.1230054,14z/data=!4m5!3m4!1s0x7c0058cb4dbb9179:0xa24ef2e2df99f0c7!8m2!3d21.5927614!4d-158.1034112
+  Haieiwa, HI
+
+https://www.google.com/maps/place/Dole+Plantation/@21.527449,-158.0405653,17z/data=!4m5!3m4!1s0x7c005dd04cec9bc1:0xbfbe6e27bf242647!8m2!3d21.5260517!4d-158.0376481
+  Dole Pineapple Plantation

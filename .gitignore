@@ -1,0 +1,4 @@
+node_modules/
+
+tests/workspace/
+tests/login_credentials/

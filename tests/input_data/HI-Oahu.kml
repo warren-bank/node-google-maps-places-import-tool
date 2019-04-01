@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<Placemark>
+  <name>Hanauma Bay Nature Preserve</name>
+  <description>Hanauma Bay Nature Preserve</description>
+  <Point>
+    <coordinates>-157.696832,21.273249,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lanai Lookout</name>
+  <description>Lanai Lookout</description>
+  <Point>
+    <coordinates>-157.6856114,21.2764765,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kahauloa Cove</name>
+  <description>Kahauloa Cove</description>
+  <Point>
+    <coordinates>-157.6862774,21.2756335,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lava Tube</name>
+  <description>Lava Tube</description>
+  <Point>
+    <coordinates>-157.6848176,21.2772179,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Japanese Fishing Shrine</name>
+  <description>Japanese Fishing Shrine</description>
+  <Point>
+    <coordinates>-157.6778797,21.2810719,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Sandy Beach Park</name>
+  <description>Sandy Beach Park</description>
+  <Point>
+    <coordinates>-157.6757115,21.2840147,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Wawamalu Beach Park</name>
+  <description>Wawamalu Beach Park</description>
+  <Point>
+    <coordinates>-157.669829,21.287237,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Sandy Beach Dunes</name>
+  <description>Sandy Beach Dunes</description>
+  <Point>
+    <coordinates>-157.6613805,21.2917092,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kaiwi State Scenic Shoreline</name>
+  <description>Kaiwi State Scenic Shoreline</description>
+  <Point>
+    <coordinates>-157.6554703,21.305679,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Makapuu Lookout</name>
+  <description>Makapuu Lookout</description>
+  <Point>
+    <coordinates>-157.6568288,21.3094013,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Makapuu Point and Lighthouse</name>
+  <description>Makapuu Point and Lighthouse</description>
+  <Point>
+    <coordinates>-157.6504453,21.308778,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Makapuu Beach</name>
+  <description>Makapuu Beach</description>
+  <Point>
+    <coordinates>-157.6601154,21.311051,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Sea Life Park</name>
+  <description>Sea Life Park</description>
+  <Point>
+    <coordinates>-157.6631377,21.3131939,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Makapuu Tide Pools</name>
+  <description>Makapuu Tide Pools</description>
+  <Point>
+    <coordinates>-157.662873,21.3158013,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kaupo Cove</name>
+  <description>Kaupo Cove</description>
+  <Point>
+    <coordinates>-157.6688868,21.32,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kaupo Beach Park</name>
+  <description>Kaupo Beach Park</description>
+  <Point>
+    <coordinates>-157.6734878,21.3216789,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Waimanlo Beach</name>
+  <description>Waimanlo Beach</description>
+  <Point>
+    <coordinates>-157.6870859,21.3307892,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>The Local Shave Ice &amp; Aloha Sunday Supply Co.</name>
+  <description>The Local Shave Ice &amp; Aloha Sunday Supply Co.</description>
+  <Point>
+    <coordinates>-157.7426949,21.3922524,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Lanikai Beach</name>
+  <description>Lanikai Beach</description>
+  <Point>
+    <coordinates>-157.715435,21.3930533,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kailua Beach Park</name>
+  <description>Kailua Beach Park</description>
+  <Point>
+    <coordinates>-157.7272179,21.397396,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Iwo Jima Memorial</name>
+  <description>Iwo Jima Memorial</description>
+  <Point>
+    <coordinates>-157.7573955,21.4362371,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Valley of the Temples</name>
+  <description>Valley of the Temples</description>
+  <Point>
+    <coordinates>-157.827896,21.434702,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Byodo-In Temple</name>
+  <description>Byodo-In Temple</description>
+  <Point>
+    <coordinates>-157.8322482,21.4306937,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalaeoio Beach Park</name>
+  <description>Kalaeoio Beach Park</description>
+  <Point>
+    <coordinates>-157.8460053,21.5452011,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kaaawa Point</name>
+  <description>Kaaawa Point</description>
+  <Point>
+    <coordinates>-157.8547899,21.5584752,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kahana Bay Beach</name>
+  <description>Kahana Bay Beach</description>
+  <Point>
+    <coordinates>-157.8750491,21.5561753,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kaluapuleho Point</name>
+  <description>Kaluapuleho Point</description>
+  <Point>
+    <coordinates>-157.8775,21.5661111,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Punalu'u Beach</name>
+  <description>Punalu'u Beach</description>
+  <Point>
+    <coordinates>-157.8817119,21.576773,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kalaipaloa Point</name>
+  <description>Kalaipaloa Point</description>
+  <Point>
+    <coordinates>-157.8980556,21.6019444,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Polynesian Cultural Center</name>
+  <description>Polynesian Cultural Center</description>
+  <Point>
+    <coordinates>-157.9198582,21.6389502,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Laie Point State Wayside</name>
+  <description>Laie Point State Wayside</description>
+  <Point>
+    <coordinates>-157.9144369,21.6484801,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Hukilau Beach Park</name>
+  <description>Hukilau Beach Park</description>
+  <Point>
+    <coordinates>-157.9283273,21.6528887,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Turtle Bay</name>
+  <description>Turtle Bay</description>
+  <Point>
+    <coordinates>-157.9999643,21.7022589,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Kawela Beach</name>
+  <description>Kawela Beach</description>
+  <Point>
+    <coordinates>-158.0192726,21.6934827,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Sunset Beach Park</name>
+  <description>Sunset Beach Park</description>
+  <Point>
+    <coordinates>-158.0402827,21.6742715,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Banzai Pipeline</name>
+  <description>Banzai Pipeline</description>
+  <Point>
+    <coordinates>-158.0512047,21.6650562,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Pupukea Beach Park</name>
+  <description>Pupukea Beach Park</description>
+  <Point>
+    <coordinates>-158.0619721,21.6525201,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Shark's Cove</name>
+  <description>Shark's Cove</description>
+  <Point>
+    <coordinates>-158.065,21.6547221,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Waimea Valley Waterfall</name>
+  <description>Waimea Valley Waterfall</description>
+  <Point>
+    <coordinates>-158.0540156,21.6361101,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Waimea Bay Beach Park</name>
+  <description>Waimea Bay Beach Park</description>
+  <Point>
+    <coordinates>-158.0633629,21.639814,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Laniakea Beach</name>
+  <description>Laniakea Beach</description>
+  <Point>
+    <coordinates>-158.0873414,21.6172053,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Haieiwa, HI</name>
+  <description>Haieiwa, HI</description>
+  <Point>
+    <coordinates>-158.1034112,21.5927614,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Dole Pineapple Plantation</name>
+  <description>Dole Pineapple Plantation</description>
+  <Point>
+    <coordinates>-158.0376481,21.5260517,0</coordinates>
+  </Point>
+</Placemark>
+
+</Document>
+</kml>

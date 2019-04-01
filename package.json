@@ -1,0 +1,24 @@
+{
+  "name": "@warren-bank/node-google-maps-places-import-tool",
+  "version": "1.0.0",
+  "main": "",
+  "description": "Command-line tool to import 'places' into Google Maps. Supports: geoJSON, KML, GPX.",
+  "license": "GPL-2.0",
+  "bin": {
+    "gmaps-places": "bin/gmaps-places.js"
+  },
+  "scripts": {
+    "gmaps-places": "node bin/gmaps-places.js"
+  },
+  "dependencies": {
+  },
+  "author": {
+    "name": "Warren R. Bank",
+    "email": "warren.r.bank@gmail.com",
+    "url": "https://github.com/warren-bank"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warren-bank/node-google-maps-places-import-tool"
+  }
+}
