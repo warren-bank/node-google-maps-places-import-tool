@@ -1,6 +1,6 @@
 {
   "name": "@warren-bank/node-google-maps-places-import-tool",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "",
   "description": "Command-line tool to import 'places' into Google Maps. Supports: geoJSON, KML, GPX.",
   "license": "GPL-2.0",

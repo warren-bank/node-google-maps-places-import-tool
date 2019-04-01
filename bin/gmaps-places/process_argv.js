@@ -7,6 +7,7 @@ const argv_flags = {
   "--help":                                 {bool: true},
   "--version":                              {bool: true},
   "--debug":                                {bool: true},
+  "--distinct":                             {bool: true},
 
   "--username":                             {},
   "--password":                             {},
@@ -18,6 +19,7 @@ const argv_flag_aliases = {
   "--help":                                 ["-h"],
   "--version":                              ["-v"],
   "--debug":                                ["-d"],
+  "--distinct":                             ["-D"],
   "--username":                             ["-u"],
   "--password":                             ["-p"],
   "--list":                                 ["-l"],

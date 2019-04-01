@@ -83,6 +83,11 @@ options:
     Print the list of Google Maps URLs obtained from the "input" filepath.
     Does not perform import.
 
+"-D"
+"--distinct"
+    Restrict each "distinct" place to a single list.
+    No action will occcur when the place has already been added to another list.
+
 "-u <username>"
 "--username <username>"
     Specify the Google account "username".

@@ -40,7 +40,8 @@ const login = async () => {
 const process_maps_urls = async () => {
   const maps_urls = argv_vals["--input"]
   const function_args = [
-    argv_vals["--list"]
+    argv_vals["--list"],
+    argv_vals["--distinct"]
   ]
   let url
 
@@ -49,16 +50,36 @@ const process_maps_urls = async () => {
 
     await page.goto(url, {waitUntil: 'networkidle2'})
 
-    await page.evaluate((GOOGLE_MAPS_PLACES_LIST_NAME) => {
-      if (document.querySelector("button[aria-label='SAVE']") !== null) {
-        document.querySelector("button[aria-label='SAVE']").click()
-        window.setTimeout(function(){
-          document.querySelectorAll("div.action-menu-entry-text").forEach(div => {
-            if (div.innerText.toLowerCase() === GOOGLE_MAPS_PLACES_LIST_NAME)
-              div.click()
-          })
-        }, 50)
-      }
+    await page.evaluate((GOOGLE_MAPS_PLACES_LIST_NAME, RESTRICT_TO_DISTINCT_LIST) => {
+      let button, button_label, places_list_containers, places_list_name, places_list_saved
+
+      button = document.querySelector('#pane button[aria-label][jsaction]')
+      if (button === null) return
+
+      button_label = button.getAttribute('aria-label').trim().toLowerCase()
+      if (RESTRICT_TO_DISTINCT_LIST && (button_label !== 'save')) return
+      if (button_label.indexOf('save') !== 0) return
+      button.click()
+
+      window.setTimeout(function(){
+        places_list_containers = document.querySelectorAll('#hovercard div[data-index][jsaction]')
+
+        places_list_containers.forEach(container => {
+          places_list_name = container.querySelector("div.action-menu-entry-text")
+          if (places_list_name === null) return
+          places_list_name = places_list_name.innerText.toLowerCase()
+          if (places_list_name !== GOOGLE_MAPS_PLACES_LIST_NAME) return
+
+          // correct list..
+          // now make sure that it isn't already saved (since clicking the list name toggles add/remove)
+
+          places_list_saved = container.querySelector("div.badge-icon.maps-sprite-pane-action-ic-check-small")
+          places_list_saved = (places_list_saved !== null)
+          if (!places_list_saved) {
+            container.click()
+          }
+        })
+      }, 50)
     }, ...function_args)
 
     await page.waitFor(200)
