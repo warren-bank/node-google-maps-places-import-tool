@@ -53,7 +53,7 @@ const process_maps_urls = async () => {
     await page.evaluate((GOOGLE_MAPS_PLACES_LIST_NAME, RESTRICT_TO_DISTINCT_LIST) => {
       let button, button_label, places_list_containers, places_list_name, places_list_saved
 
-      button = document.querySelector('#pane button[aria-label][jsaction]')
+      button = document.querySelector('#pane button[aria-label][jsaction="pane.placeActions.save"]')
       if (button === null) return
 
       button_label = button.getAttribute('aria-label').trim().toLowerCase()
